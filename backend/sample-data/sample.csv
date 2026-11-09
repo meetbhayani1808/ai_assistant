@@ -1,0 +1,4 @@
+prompt,response,type
+"What is the speed of light?","About 299,792 km per second in a vacuum.",general
+"Write a hello world in C","#include <stdio.h>\nint main(){ printf(""Hello, world!\n""); return 0; }",coding
+"Name three primary colours","Red, yellow and blue.",general

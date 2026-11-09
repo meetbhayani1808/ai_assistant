@@ -1,0 +1,5 @@
+prompt,response,type
+"Good row one","This one is valid.",general
+"Missing response",,general
+,"Missing prompt",general
+"Good row two","Also valid."

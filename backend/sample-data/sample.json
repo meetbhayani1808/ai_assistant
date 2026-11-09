@@ -1,0 +1,5 @@
+[
+  { "prompt": "What is HTTP 404?", "response": "It means the server could not find the requested resource.", "type": "general" },
+  { "prompt": "Convert 10 km to miles", "response": "10 km is about 6.21 miles.", "type": "math" },
+  { "prompt": "What is a REST API?", "response": "An API style that uses HTTP methods on resource URLs." }
+]
